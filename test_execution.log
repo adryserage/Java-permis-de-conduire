@@ -1,0 +1,25 @@
+[2025-02-07 09:58:44] INFO: Démarrage des tests
+[2025-02-07 09:58:44] INFO: === Test 1: Création d'une personne ===
+[2025-02-07 09:58:44] INFO: Nom: Dupont
+[2025-02-07 09:58:44] INFO: Prénom: Jean
+[2025-02-07 09:58:44] INFO: Date de naissance: 1990-05-15
+[2025-02-07 09:58:44] TEST SUCCÈS: Création Personne
+[2025-02-07 09:58:44] INFO: === Test 2: Création d'un permis ===
+[2025-02-07 09:58:44] INFO: Numéro de permis: B123456789
+[2025-02-07 09:58:44] INFO: Type de permis: B
+[2025-02-07 09:58:44] INFO: Description: Permis de conduire standard pour les voitures
+[2025-02-07 09:58:44] TEST SUCCÈS: Création Permis
+[2025-02-07 09:58:44] INFO: === Test 3: Attribution d'un permis à une personne ===
+[2025-02-07 09:58:44] INFO: Personne{nom='Dupont', prénom='Jean', date de naissance=1990-05-15
+Permis de conduire{numéro='B123456789', type=B (Permis de conduire standard pour les voitures)}}
+[2025-02-07 09:58:44] TEST SUCCÈS: Attribution Permis
+[2025-02-07 09:58:44] INFO: === Test 4: Test des différents types de permis ===
+[2025-02-07 09:58:44] INFO: Type: B - Description: Permis de conduire standard pour les voitures
+[2025-02-07 09:58:44] INFO: Type: A - Description: Permis de conduire pour les motocyclettes
+[2025-02-07 09:58:44] INFO: Type: C - Description: Permis de conduire pour les véhicules de transport de marchandises lourds
+[2025-02-07 09:58:44] INFO: Type: D - Description: Permis de conduire pour les véhicules de transport en commun
+[2025-02-07 09:58:44] INFO: Type: BE - Description: Permis de conduire pour les remorques attachées à un véhicule de catégorie B
+[2025-02-07 09:58:44] INFO: Type: CE - Description: Permis de conduire pour les véhicules articulés lourds
+[2025-02-07 09:58:44] INFO: Type: DE - Description: Permis de conduire pour les véhicules de transport en commun avec remorque
+[2025-02-07 09:58:44] TEST SUCCÈS: Test Types Permis
+[2025-02-07 09:58:44] INFO: Tous les tests sont terminés avec succès!
